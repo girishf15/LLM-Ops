@@ -1,0 +1,12 @@
+flask
+flask-session
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+python-dotenv
+psycopg2-binary
+pgvector
+pdfplumber
+faiss-cpu
+redis
